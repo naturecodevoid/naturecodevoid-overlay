@@ -2,11 +2,13 @@
 
 naturecodevoid's Hypixel Overlay for Minecraft 1.8.9. OptiFine is required for most features.
 
+This version includes big gold and head items. Useful for bedwars/uhc
+
 [**Download Normal Version**](https://github.com/naturecodevoid/naturecodevoid-overlay/archive/refs/heads/main.zip)
 
 [**Download Big Gold/Heads Version**](https://github.com/naturecodevoid/naturecodevoid-overlay/archive/refs/heads/big-gold.zip)
 
-[**Big Gold/Heads Version**](https://github.com/naturecodevoid/naturecodevoid-overlay/tree/big-gold)
+[**Normal Version**](https://github.com/naturecodevoid/naturecodevoid-overlay/tree/main)
 
 ## Credits
 
@@ -26,4 +28,4 @@ naturecodevoid's Hypixel Overlay for Minecraft 1.8.9. OptiFine is required for m
 -   SkyWars challenges active/inactive CIT
 -   3D ladders
 -   Hypixel lobby players hidden/visible CIT
--   [Big Gold/Heads Version](https://github.com/naturecodevoid/naturecodevoid-overlay/tree/big-gold)
+-   Big Gold/Heads
