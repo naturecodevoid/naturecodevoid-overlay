@@ -1,0 +1,31 @@
+Please do not delete/edit this file.
+
+Credits:
+
+- Based off of SpeedToggled Bridge Overlay: https://www.mediafire.com/file/rs17xhgil4qapxw/%2521_%25C2%25A79%25C2%25A7lSpeedToggled_%25C2%25A7c%25C2%25A7lOverlay%25C2%25A70.zip/file
+
+- 3D ladders from Vanilla Tweaks: https://vanillatweaks.net (edited and ported to 1.8.9 by naturecodevoid with some help from infernally's bedwars overlay: https://www.youtube.com/watch?v=Xghr9g0rqK0)
+
+- Snowman in pack icon is from my pfp lol
+
+- Big gold, golden apples, golden nuggets and heads from overlay by Daich1 and himohimo, idk where link is (only included in Big Gold/Heads Version)
+
+Changes by naturecodevoid:
+
+- Added connected concrete/clay blocks for white, red, blue, green, yellow using blocks from SpeedToggled Bridge Overlay
+
+- Added build limit connected concrete/clay blocks for red, blue, green, yellow using build limit blocks from SpeedToggled Bridge Overlay
+
+- Removed old build limit blocks
+
+- Removed some stuff (don't remember all of it, mainly the gui folder and some font stuff)
+
+- Renamed lime to green in textures so it works
+
+- Added active and inactive CIT (made for skywars challenges, not sure if it will work somewhere else)
+
+- Added 3D ladders (ported to 1.8.9 and edited by me, originally from Vanilla Tweaks: https://vanillatweaks.net)
+
+- Added Players: Hidden/Visible CIT for hypixel lobby
+
+- Add big gold, golden apples, golden nuggets and heads (idk where link is)
